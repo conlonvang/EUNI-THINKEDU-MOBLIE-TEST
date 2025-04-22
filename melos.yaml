@@ -1,0 +1,4 @@
+name: eUni-QuizEdu-Moblie
+packages:
+  - apps/**
+  - packages/**
