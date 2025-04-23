@@ -1,0 +1,25 @@
+# Flutter & Dart
+.dart_tool/
+.buildlog/
+.packages
+.pub/
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.fvm/
+
+# IDE
+.idea/
+.vscode/
+
+# Other modules
+apps/**/.dart_tool/
+apps/**/build/
+apps/**/.idea/
+apps/**/.vscode/
+
+packages/**/.dart_tool/
+packages/**/build/
+packages/**/.idea/
+packages/**/.vscode/
